@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohammad Sabbir Musfique</h1>
 <h3 align="center">CSE(3rd year student),MIST</h3>
 
-<img align="right" alt="coding" width="400" src="[![image](https://github.com/sabbir-063/sabbir-063/assets/114491259/f6fa354f-7f7f-422f-8b27-1160fcb1b703)](https://github.com/sabbir-063/sabbir-063/blob/main/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966.gif)">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbir-063&label=Profile%20views&color=0e75b6&style=flat" alt="sabbir-063" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabbir-063" alt="sabbir-063" /></a> </p>
+
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 - 🔭 I’m currently working on [Mess Management System](https://www.youtube.com/@sabbirmusfique8016)
 
