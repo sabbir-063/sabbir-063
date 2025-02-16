@@ -24,69 +24,65 @@ I'm a CSE undergraduate at Military Institute of Science and Technology with a p
 
 ### [OneConnect](https://youtu.be/RrXlpB_5l7E)
 An Android Application featuring:
-- Course creation with AI assistance
-- Unlimited online meeting capabilities
-- Interactive forums and chatrooms
-- Comprehensive admin analytics
+- User can Donate in donation posts
+- User can see Top Donators
+- User can chat with admin
+- Admin can approve donation post
+- Admin can see all transaction/user info
   
 **Tech Stack:**  
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Cloudinary](https://img.shields.io/badge/Cloudinary-4285F4?style=flat-square&logo=cloudinary&logoColor=white)](https://cloudinary.com/)
+[![Flutter](https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=white)](https://nextjs.org/)
+[![Firebase](https://img.shields.io/badge/Firebase-6DB33F?style=flat-square&logo=firebase&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Firestore](https://img.shields.io/badge/Firestore-4EA94B?style=flat-square&logo=firestore&logoColor=white)](https://www.mongodb.com/)
 
-### [GreenCycle](https://github.com/ShadmanShafeen/Green-Cycle)
-A gamified recycling app leveraging:
-- Object Recognition
-- AI-powered text generation
-- Reward-based environmental activities
+### [Bikreta - A friend of growth](https://github.com/marzun9620/Bikreta_client)
+An ecommerce website leveraging:
+- Buy/Add to cart product
+- Special offers in different time
+- Admin can add product
+- Admin have a interactive dashboard for analysis
 
 **Tech Stack:**  
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![React](https://img.shields.io/badge/React-02569B?style=flat-square&logo=react&logoColor=white)](https://flutter.dev/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org/)
+[![Express](https://img.shields.io/badge/Express-5C3EE8?style=flat-square&logo=express&logoColor=white)](https://opencv.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![Claudinary](https://img.shields.io/badge/Claudinary-FF6F00?style=flat-square&logo=claudinary&logoColor=white)](https://www.tensorflow.org/)
 
-### [MIST Pioneers](https://pioneer-mist-two.vercel.app/)
-A memorial blog website honoring student movement martyrs
-
-**Tech Stack:**  
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![MDX](https://img.shields.io/badge/MDX-1B1F24?style=flat-square&logo=mdx&logoColor=white)](https://mdxjs.com/)
-
-### [MIST Central Resource Hub for Students](https://rhub-6bde5.web.app/)
-A resource management archive for students of universities and colleges. It is a structured community-based resource
-storing website which categorizes materials intuitively and enables students to find academic books and slides efficiently.
+### [TransitPro](https://github.com/marzun9620/Transit-Pro)
+A bus management website leveraging:
+- User can buy/see available bus tickets
+- Admin can add specail bus anytime
+- Admin can see all info in dashboard
 
 **Tech Stack:**  
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![Laravel](https://img.shields.io/badge/laravel-000000?style=flat-square&logo=laravel&logoColor=white)](https://nextjs.org/)
+[![Oracle](https://img.shields.io/badge/Oracle-1B1F24?style=flat-square&logo=oracle&logoColor=white)](https://mdxjs.com/)
+
+### [Arduino Snake Game](https://github.com/sabbir-063/Arduino-Snake-Game)
+An Arduino based hardware project for playing snake game in dot matrix with joy stick.
+
+**Tech Stack:**  
+[![C++](https://img.shields.io/badge/C++-20232A?style=flat-square&logo=c&logoColor=61DAFB)](https://reactjs.org/)
+[![Arduino](https://img.shields.io/badge/Arduino-000000?style=flat-square&logo=arduino&logoColor=white)](https://expressjs.com/)
+
 
 ## 🏅 Achievements
-- Codeforces Specialist (Peak Rating: 1425)
-- Nabiha Raidaa Scholarship – For Excellent Performance in Academics (GPA 3.94) Level 1 Term 2
-- Second Runner Up in Independence Day Programming Contest 2023 (MIST)
-- Champion in Independence Day Programming Contest 2022 (MIST)
-- 21st Place in SEC Inter University Junior Programming Contest 2022
-- 85th in AUST Inter University Programming Contest 2022
+- Codeforces Pupil (Peak Rating: 1286)
+- 7th in Independence Day Programming Contest 2023 (MIST)
+- 51th Place in SEC Inter University Junior Programming Contest 2022
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Abrar118&show_icons=true&include_all_commits=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sabbir-063&show_icons=true&include_all_commits=true&theme=radical)
 
 ## 🌐 Languages
 - Bangla (Native)
 - English (Professional)
-- Arabic (Reading and Preliminary)
 
 ## 📫 Get in Touch
-- Email: abrarme118@gmail.com
-- Mobile: +880-1558075365
+- Email: sabbir.musfique01@gmail.com
+- Mobile: +880-1884952804
 - Location: Mirpur DOHS, Dhaka-1216
 
 ---
-*"He who does not live in the way of his beliefs starts to believe in the way he lives."*
+
