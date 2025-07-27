@@ -11,8 +11,7 @@ I'm a CSE undergraduate at Military Institute of Science and Technology with a p
 
 ## 📫 Get in Touch
 - Email: sabbir.musfique01@gmail.com
-- Mobile: +880-1884952804
-- Location: Mirpur DOHS, Dhaka-1216
+- Location: Kazipara, Mirpur, Dhaka-1216
 
 ---
 
