@@ -3,7 +3,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-cyan)](https://sabbir-portfolio-five.vercel.app/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Pupil-green)](https://codeforces.com/profile/sabbir_063)
 
-I'm a CSE undergraduate at Military Institute of Science and Technology with a passion for software development, competitive programming. Currently I'm exploring Machine Learning and Deep Learning Algorithms.
+I'm a Computer Science and Engineering graduate from MIST. I'm a passionate problem solver and software developer with a strong interest in Machine Learning (ML), Deep Learning (DL), and Artificial Intelligence (AI).
 
 ## 🌐 Languages
 - Bangla (Native)
